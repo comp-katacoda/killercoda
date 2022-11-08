@@ -1,0 +1,7 @@
+{
+    "items": [
+      { "path": "coursewith", "title": "Docker Tutortials (With Click-and-Execute)" },
+      { "path": "coursewithout", "title": "Docker Tutortials (Without Click-and-Execute)" },
+      { "path": "othertutorials", "title": "Other Tutorials" }
+    ]
+  }

@@ -1,0 +1,51 @@
+{
+    "title": "3. Nginx and Docker",
+    "description": "This is the tutorial for Nginx and Docker.",
+    "details":{
+        "steps":[
+            {
+                "text": "page1.md"
+            },
+            {
+                "text": "page2.md"
+            },
+            {
+                "text": "page3.md"
+            },
+            {
+                "text": "page4.md"
+            },
+            {
+                "text": "page5.md"
+            },
+            {
+                "text": "page6.md"
+            },
+            {
+                "text": "page7.md",
+                "commented-verify": "page7-verify.sh"
+            },
+            {
+                "text": "page8.md"
+            },
+            {
+                "text": "page9.md"
+            }
+        ],
+        "intro":{
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "environment": {
+            "uilayout": "editor-terminal",
+            "uisettings": "bash",
+            "exclusionPatterns": ["*verify*"],
+            "hideHiddenFiles": true
+        }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
