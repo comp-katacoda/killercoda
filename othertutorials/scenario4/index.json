@@ -1,0 +1,32 @@
+{
+    "title": "Python Unit Testing",
+    "description": "This is the tutorial for Python Unit Testing.",
+    "details":{
+        "steps":[
+            {
+                "text": "page1.md"
+            },
+            {
+                "text": "page2.md"
+            },
+            {
+                "text": "page3.md"
+            },
+            {
+                "text": "page4.md"
+            }
+        ],
+        "intro":{
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "environment": {
+            "uilayout": "editor-terminal"
+        }
+    },
+    "backend": {
+      "imageid": "python:3.8"
+    }
+  }

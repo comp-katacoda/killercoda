@@ -1,0 +1,30 @@
+{
+    "title": "MongoDB Basics",
+    "description": "This is the tutorial for MongoDB Basics.",
+    "details":{
+        "steps":[
+            {
+                "text": "page1.md"
+            },
+            {
+                "text": "page2.md"
+            },
+            {
+                "text": "page3.md"
+            }
+        ],
+        "intro":{
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "environment": {
+            "uilayout": "terminal",
+            "uisettings": "bash"
+        }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
